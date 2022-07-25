@@ -1,4 +1,4 @@
-package uz.pdp.app_hr_managament.controller;
+package uz.pdp.app_hr_managament.config;
 
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.core.Authentication;
